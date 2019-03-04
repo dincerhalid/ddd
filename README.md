@@ -6,7 +6,7 @@ Written in RAD studio with C++. This project also include a web interface writte
 
 ## Download
 
-You can download the latest installable version of this program from [here](https://github.com/dincerhalit/divani/tree/master/Divani) for Windows.
+You can find the latest installable version of this program from [here](https://github.com/dincerhalit/divani/tree/master/Divani) for Windows.
 
 ## License
 
